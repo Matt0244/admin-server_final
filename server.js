@@ -4,7 +4,11 @@
 2. 通过mongoose连接数据库
   说明: 只有当连接上数据库后才去启动服务器
 3. 使用中间件
+344444. 使用中间件
  */
+
+
+
 const mongoose = require('mongoose')
 const express = require('express')
 const app = express() // 产生应用对象
