@@ -1,0 +1,30 @@
+[
+    {
+      "_id": "001",
+      "username": "admin",
+      "password": "123456",
+      "phone": "13888888888",
+      "email": "admin@example.com",
+      "create_time": 1633337600000,
+      "role_id": "1"
+    },
+    {
+      "_id": "002",
+      "username": "operator",
+      "password": "123456",
+      "phone": "13999999999",
+      "email": "operator@example.com",
+      "create_time": 1633424000000,
+      "role_id": "2"
+    },
+    {
+      "_id": "003",
+      "username": "customer_service",
+      "password": "123456",
+      "phone": "13777777777",
+      "email": "customer_service@example.com",
+      "create_time": 1633510400000,
+      "role_id": "3"
+    }
+  ]
+  

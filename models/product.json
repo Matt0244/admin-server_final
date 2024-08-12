@@ -1,0 +1,72 @@
+[
+  {
+    "categoryId": "2",
+    "pCategoryId": "1",
+    "name": "iPhone 13",
+    "price": 7999,
+    "desc": "新一代iPhone",
+    "status": 1,
+    "imgs": ["image1.png", "image2.png"],
+    "detail": "这是一个新一代的iPhone 13"
+  },
+  {
+    "categoryId": "3",
+    "pCategoryId": "1",
+    "name": "MacBook Pro",
+    "price": 11999,
+    "desc": "MacBook Pro 16 英寸",
+    "status": 1,
+    "imgs": ["image3.png", "image4.png"],
+    "detail": "这是一个MacBook Pro 16 英寸"
+  },
+  {
+    "categoryId": "5",
+    "pCategoryId": "4",
+    "name": "智能电视",
+    "price": 4999,
+    "desc": "智能电视，支持网络连接",
+    "status": 1,
+    "imgs": ["image5.png", "image6.png"],
+    "detail": "这是一个支持网络连接的智能电视"
+  },
+  {
+    "categoryId": "6",
+    "pCategoryId": "4",
+    "name": "空调",
+    "price": 2999,
+    "desc": "冷暖两用空调",
+    "status": 1,
+    "imgs": ["image7.png", "image8.png"],
+    "detail": "这是一个冷暖两用的空调"
+  },
+  {
+    "categoryId": "8",
+    "pCategoryId": "7",
+    "name": "男士T恤",
+    "price": 99,
+    "desc": "舒适透气男士T恤",
+    "status": 1,
+    "imgs": ["image9.png", "image10.png"],
+    "detail": "这是一件舒适透气的男士T恤"
+  },
+  {
+    "categoryId": "9",
+    "pCategoryId": "7",
+    "name": "女士裙装",
+    "price": 199,
+    "desc": "优雅时尚女士裙装",
+    "status": 1,
+    "imgs": ["image11.png", "image12.png"],
+    "detail": "这是一件优雅时尚的女士裙装"
+  },
+  {
+    "categoryId": "10",
+    "pCategoryId": "7",
+    "name": "儿童T恤",
+    "price": 59,
+    "desc": "可爱设计儿童T恤",
+    "status": 1,
+    "imgs": ["image13.png", "image14.png"],
+    "detail": "这是一件可爱设计的儿童T恤"
+  }
+]

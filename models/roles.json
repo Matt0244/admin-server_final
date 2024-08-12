@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "1",
+    "name": "管理员",
+    "auth_name": "张三",
+    "auth_time": 1633337600000,
+    "create_time": 1633337600000,
+    "menus": ["/home", "/products", "/categories", "/roles", "/orders", "/users"]
+  },
+  {
+    "_id": "2",
+    "name": "运营",
+    "auth_name": "李四",
+    "auth_time": 1633424000000,
+    "create_time": 1633424000000,
+    "menus": ["/home", "/products", "/categories", "/orders"]
+  },
+  {
+    "_id": "3",
+    "name": "客服",
+    "auth_name": "王五",
+    "auth_time": 1633510400000,
+    "create_time": 1633510400000,
+    "menus": ["/home", "/orders", "/users"]
+  }
+]
